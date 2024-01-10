@@ -1,0 +1,25 @@
+{
+  "name": "arid-jungle",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"> <img src=\"./prowling-predator/branding/header.png\"/> </p>",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "",
+    "start": "",
+    "server": "",
+    "build": "",
+    "install": "",
+    "client": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "if-env": "^1.0.4"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
+  }
+}
