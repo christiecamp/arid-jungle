@@ -27,11 +27,31 @@ module.exports = () => {
         }),
         //custom service worker
         new InjectManifest({
-            swSrc: './src/sw.js',
-            swDest: 'service-worker.js',
+            swSrc: './src-sw.js',
+            swDest: 'src-sw.js',
         }),
         //manifest file
-        new WebpackPwaManifest({})
+        new WebpackPwaManifest({
+          fingerprints: false,
+          inject: true,
+          name: 'ARID JUNGLE',
+          short_name: 'ARID',
+          //update later
+          description: 'traverse the arid jungle!',
+          background_color: '#ffffff',
+          theme_color:'#0000FF',
+          start_url: '/',
+          publicPath: '/',
+          icons: [
+            {
+              src: path.resolve('src/images/logo.png'),
+              sizes: [96, 128, 192, 256, 384, 512],
+              destination: path.join('assets', 'icons'),
+            },
+          ],
+        }),
+        //css plugin
+        new MiniCssExtractPlugin({}),
     ],
 
 //babel & css loaders
