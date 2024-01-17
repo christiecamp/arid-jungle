@@ -23,7 +23,7 @@ export default class {
         //set value - indexdb output
         getDb().then((data) => {
             console.info('Loaded data from indexeddb - injecting into editor');
-            //no output - fallback to local storage
+            //no output - fallback to local storage or display header
             this.editor.setValue(data || localData || header);
         });
 
