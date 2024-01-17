@@ -38,8 +38,8 @@ module.exports = () => {
           short_name: 'ARID',
           //update later
           description: 'traverse the arid jungle!',
-          background_color: '#ffffff',
-          theme_color:'#0000FF',
+          background_color: '#225ca3',
+          theme_color:'#225ca3',
           start_url: '/',
           publicPath: '/',
           icons: [
