@@ -1,5 +1,4 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const WebpackPwaManifest = require('webpack-pwa-manifest');
 const path = require('path');
 //require generatesw class of workbox plugin
@@ -11,9 +10,6 @@ module.exports = () => {
     entry: {
       main: './src/js/index',
       install: './src/js/install',
-      database: './src/js/database',
-      editor: './src/js/editor',
-      header: './src/js/header',
     },
     output: {
       filename: '[name].bundle.js',
@@ -50,8 +46,6 @@ module.exports = () => {
             },
           ],
         }),
-        //css plugin
-        new MiniCssExtractPlugin({}),
     ],
 
 //babel & css loaders
