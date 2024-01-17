@@ -1,8 +1,5 @@
 {
   "name": "client",
-  "version": "1.0.0",
-  "description": "",
-  "main": "src.sw.js",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",

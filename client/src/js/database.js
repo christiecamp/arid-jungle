@@ -13,7 +13,7 @@ const initdb = async () =>
     });
 
 //accept some content & add to database
-export const pubDb = async (content) => {
+export const putDb = async (content) => {
     console.log('update database');
     //create connection
     const textDb = await openDB('arid', 1);

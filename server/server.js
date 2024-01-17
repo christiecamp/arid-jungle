@@ -27,11 +27,10 @@ monkey.listen(PORT, () => console.log(`
           fL ((__.-'((___..-'' ;__.'
 
 
-         ===========================
+           ========================
             Welcome to ARID JUNGLE 
-           EASY TO USE TEXT EDITOR
-         ===========================
+           ========================
 
-        start your text editor:
-        http://localhost:${PORT}
+              START TEXT EDITOR:
+            http://localhost:${PORT}
 `));
