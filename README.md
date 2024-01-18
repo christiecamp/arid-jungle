@@ -34,17 +34,17 @@
 >The [.npmrc](https://docs.npmjs.com/cli/v10/configuring-npm/npmrc) file will set config values specific to this project, and ensures the app will deploy properly to [Heroku](https://www.heroku.com).
 
 
-### ![user-story](./prowling-predator/branding/9.png)
+<!-- ### ![user-story](./prowling-predator/branding/9.png) -->
 <!-- <p align="center">
   <img src="./prowling-predator/branding/user-story.png"/>
 </p> -->
 
-### ![acceptance-criteria](./prowling-predator/branding/10.png)
+<!-- ### ![acceptance-criteria](./prowling-predator/branding/10.png) -->
 <!-- <p align="center">
   <img src="./prowling-predator/branding/ac.png"/>
 </p> -->
 
-### ![predator-list](./prowling-predator/branding/11.png)
+<!-- ### ![predator-list](./prowling-predator/branding/11.png) -->
 <!-- <p align="center">
   <img src="./prowling-predator/branding/killer-list.png"/>
 </p> -->
@@ -66,26 +66,45 @@ git clone https://github.com/christiecamp/avid-jungle.git
 ```javascript
 npm i
 ```
+
+```javascript
+npm run start:dev
+```
 #
 
 ### ![usage](./prowling-predator/branding/3.png)
 
 **INSTRUCTIONS:**
 
-1. Open the Integrated Terminal and follow the [installation](#installation) guidelines
+1. Open the Integrated Terminal and follow the [installation](#installation) guidelines.
 
+2. Interact with `AVID JUNGLE's` text editor through your local enviorment, or open the [application](https://avid-jungle-65cf1ebd9bdd.herokuapp.com/) deployed on [Heroku](https://heroku.com/home).
 
+3. Inspect the following through your local browser, or the PWA:
+    * local storage
+    * manifest
+    * service worker
       ##### view [demo videos](#demo) for further help
-
 
 <!-- ### ![screenshot](./prowling-predator/branding/12.png)
              
-##### *screenshot demonstrates `AVID JUNGLE's` back end*
-<!-- <p align="center">
-<img src="./prowling-predator/demo/ss.png"/>
-</p> -->
+##### *screenshot demonstrates `AVID JUNGLE's` back end, along with the downloadable `PWA`*
 
-<!-- ### ![demo](./prowling-predator/branding/13.png) -->
+
+
+##### manifest
+<p align="center">
+<img src="./prowling-predator/demo/ss.png"/>
+</p> 
+
+##### service worker
+
+
+##### idb storage
+
+
+### ![demo](./prowling-predator/branding/13.png) -->
+
 
 
 #
