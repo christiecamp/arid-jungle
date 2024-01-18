@@ -31,12 +31,12 @@
       "type": "image/png"
     }
   ],
-  "name": "ARID JUNGLE",
-  "short_name": "ARID",
+  "name": "AVID JUNGLE",
+  "short_name": "AVID",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
-  "description": "traverse the arid jungle!",
+  "description": "traverse the avid jungle!",
   "background_color": "#225ca3",
   "theme_color": "#225ca3"
 }
