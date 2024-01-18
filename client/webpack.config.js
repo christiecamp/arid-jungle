@@ -19,7 +19,7 @@ module.exports = () => {
         //webpack plugin - generates html file & injects bundles
         new HtmlWebpackPlugin({
             template: './index.html',
-            title: 'ARID JUNGLE'
+            title: 'AVID JUNGLE'
         }),
         //custom service worker
         new InjectManifest({
@@ -30,10 +30,10 @@ module.exports = () => {
         new WebpackPwaManifest({
           fingerprints: false,
           inject: true,
-          name: 'ARID JUNGLE',
-          short_name: 'ARID',
+          name: 'AVID JUNGLE',
+          short_name: 'AVID',
           //update later
-          description: 'traverse the arid jungle!',
+          description: 'traverse the avid jungle!',
           background_color: '#225ca3',
           theme_color:'#225ca3',
           start_url: '/',

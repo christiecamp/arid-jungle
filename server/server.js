@@ -12,7 +12,7 @@ require('./routes/html-route')(monkey);
 monkey.listen(PORT, () => console.log(`
 
 ==================================================
-************** ARID JUNGLE's BACK END ************
+************** AVID JUNGLE's BACK END ************
 ==================================================
 
                          __,,,,_
@@ -28,7 +28,7 @@ monkey.listen(PORT, () => console.log(`
 
 
            ========================
-            Welcome to ARID JUNGLE 
+            Welcome to AVID JUNGLE 
            ========================
 
                START TEXT EDITOR:
