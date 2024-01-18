@@ -26,3 +26,45 @@
   - [LICENSE](#license)
   - [LINKS](#links)
   - [CONNECT](#connect)
+
+### ![overview](./prowling-predator/branding/1.png)
+
+`AVID JUNGLE` is a single-page text editor app (meeting [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) criteria) that runs in the browser, and will function offline. The app uses [Express.js](https://www.npmjs.com/package/express) for **routing**, [webpack](https://webpack.js.org/) to **budle** JavaScript files for usage in the browser, and [idb](https://www.npmjs.com/package/idb) for **storing & retrieving data**.
+
+>The [.npmrc](https://docs.npmjs.com/cli/v10/configuring-npm/npmrc) file will set config values specific to this project, and ensures the app will deploy properly to [Heroku](https://www.heroku.com).
+
+
+### ![user-story](./prowling-predator/branding/9.png)
+<!-- <p align="center">
+  <img src="./prowling-predator/branding/user-story.png"/>
+</p> -->
+
+### ![acceptance-criteria](./prowling-predator/branding/10.png)
+<!-- <p align="center">
+  <img src="./prowling-predator/branding/ac.png"/>
+</p> -->
+
+### ![predator-list](./prowling-predator/branding/11.png)
+<!-- <p align="center">
+  <img src="./prowling-predator/branding/killer-list.png"/>
+</p> -->
+
+#
+
+### ![installation](./prowling-predator/branding/2.png)
+
+The application is invoked using the following commands:
+
+##### *Clone the repository in your local development enviornment*
+
+```
+git clone https://github.com/christiecamp/avid-jungle.git
+```
+
+##### *Navigate to the CLI and input:*
+
+```javascript
+npm i
+```
+
+#
