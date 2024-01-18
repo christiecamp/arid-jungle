@@ -78,16 +78,16 @@ npm i
       ##### view [demo videos](#demo) for further help
 
 
-### ![screenshot](./prowling-predator/branding/12.png)
+<!-- ### ![screenshot](./prowling-predator/branding/12.png)
              
 ##### *screenshot demonstrates `AVID JUNGLE's` back end*
 <!-- <p align="center">
 <img src="./prowling-predator/demo/ss.png"/>
 </p> -->
 
-### ![demo](./prowling-predator/branding/13.png)
+<!-- ### ![demo](./prowling-predator/branding/13.png) -->
 
-
+<!-- 
 #
 
 ### ![sources](./prowling-predator/branding/4.png)
@@ -131,4 +131,24 @@ Here's a list of technologies used:
 
 13. [Nodemon](https://www.npmjs.com/package/nodemon) - a Node.js tool that helps develop applications by automatically restarting the node application when file changes in the directory are detected.
 
-14. [Heroku](https://heroku.com) - used to deploy, manage, and scale the application.
+14. [Heroku](https://heroku.com) - used to deploy, manage, and scale the application. -->
+
+
+### ![license](./prowling-predator/branding/5.png)
+
+##### [mit license](./LICENSE)
+
+
+### ![links](./prowling-predator/branding/6.png)
+
+##### [*github repo*](https://github.com/christiecamp/avid-jungle)
+
+##### [*deployed app*](https://avid-jungle-65cf1ebd9bdd.herokuapp.com/)
+
+### ![connect](./prowling-predator/branding/7.png)
+
+[![Github Badge](https://img.shields.io/badge/christiecamp-grey.svg?&logo=Github&logoColor=white)](https://github.com/christiecamp/avid-jungle)
+
+<a href="mailto:christiecamphoto@gmail.com">
+<img src="https://img.shields.io/badge/gmail-darkgreen.svg?&logo=Gmail&logoColor=white" />
+</a>
