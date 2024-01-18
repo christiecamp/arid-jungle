@@ -66,5 +66,25 @@ git clone https://github.com/christiecamp/avid-jungle.git
 ```javascript
 npm i
 ```
-
 #
+
+### ![usage](./prowling-predator/branding/3.png)
+
+**INSTRUCTIONS:**
+
+1. Open the Integrated Terminal and follow the [installation](#installation) guidelines
+
+
+      ##### view [demo videos](#demo) for further help
+
+
+### ![screenshot](./prowling-predator/branding/12.png)
+             
+##### *screenshot demonstrates `AVID JUNGLE's` back end*
+
+<!-- <p align="center">
+<img src="./prowling-predator/demo/ss.png"/>
+</p> -->
+
+
+### ![demo](./prowling-predator/branding/13.png)
