@@ -98,40 +98,36 @@ Here's a list of technologies used:
 
 2. [Express.js](<(https://expressjs.com)>) - a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
 
-3. [Webpack]() - a JavaScript module bundler that is commonly used with [React](https://react.dev/) to bundle and manage dependencies, with help from:
+3. [Webpack](https://webpack.js.org/) - a JavaScript module bundler that is commonly used with [React](https://react.dev/) to bundle and manage dependencies, with help from:
     * [webpack-cli](https://www.npmjs.com/package/webpack-cli)
     * [webpack-dev-server](https://webpack.js.org/configuration/dev-server/)
     * [webpack-pwa-manifest](https://www.npmjs.com/package/webpack-pwa-manifest)
     * [workbox-webpack-plugin](https://www.npmjs.com/package/workbox-webpack-plugin)
     * [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
 
-3. [Concurrently]()
+4. [Babel](https://www.npmjs.com/package/@babel/core) - tool to help write code in the latest version of JavaScript, with the help from:
+    * [babel/plugin-proposal-object-rest-spread]()
+    * [babel/plugin-transform-runtime]()
+    * [babel/preset-env]()
+    * [babel-loader]()
 
-4. [if-env]()
+5. [Concurrently](https://www.npmjs.com/package/concurrently) - a Node.js tool that runs multiple commands concurrently.
 
-5. [Webpack]()
-    webpack-cli
-    webpack-dev-server
-    webpack-pwa-manifest
-    workbox-webpack-plugin
-    html-webpack-plugin
+6. [if-env](https://www.npmjs.com/package/if-env) - a Node.js tool that simplifies development to run `npm start` in all enviorments & run correct scripts.
 
-6. [style-loader]
-7. [http-server]
-8. idb
-9. css-loader
-10. babel/core
-    babel/plugin-proposal-object-rest-spread
-    babel/plugin-transform-runtime
-    babel/preset-env
-    babel/runtime
-    babel-loader
-11. css-loader
-12. code-mirror-themes
+7. [style-loader](https://www.npmjs.com/package/style-loader) - a Node.js tool that injects CSS into the [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model).
 
-13. [Nodemon](https://www.npmjs.com/package/nodemon) - a Node.js tool that helps develop applications by automatically restarting the node application when file changes in the directory are detected.
+8. [http-server](https://www.npmjs.com/package/http-server) - simple command-line static HTTP server.
 
-14. [Heroku](https://heroku.com) - used to deploy, manage, and scale the application.
+0. [idb](https://www.npmjs.com/package/idb) - a tiny library that mirros the [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API).
+
+10. [css-loader](https://www.npmjs.com/package/css-loader) - a Node.js tool that interprets `@import` and `url()` & resolves them.
+
+11. [code-mirror-themes](https://www.npmjs.com/package/code-mirror-themes) - a theme generated that exports themes from [CodeMirror](https://codemirror.net/).
+
+12. [Nodemon](https://www.npmjs.com/package/nodemon) - a Node.js tool that helps develop applications by automatically restarting the node application when file changes in the directory are detected.
+
+13. [Heroku](https://heroku.com) - used to deploy, manage, and scale the application.
 
 ### ![license](./prowling-predator/branding/5.png)
 
