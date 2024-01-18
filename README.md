@@ -81,10 +81,54 @@ npm i
 ### ![screenshot](./prowling-predator/branding/12.png)
              
 ##### *screenshot demonstrates `AVID JUNGLE's` back end*
-
 <!-- <p align="center">
 <img src="./prowling-predator/demo/ss.png"/>
 </p> -->
 
-
 ### ![demo](./prowling-predator/branding/13.png)
+
+
+#
+
+### ![sources](./prowling-predator/branding/4.png)
+
+Here's a list of technologies used:
+
+1. [Node.js](https://nodejs.org/en) - an open-source, cross-platform JavaScript runtime environment.
+
+2. [Express.js](<(https://expressjs.com)>) - a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+
+3. [Webpack]() - a JavaScript module bundler that is commonly used with [React](https://react.dev/) to bundle and manage dependencies, with help from:
+    * [webpack-cli](https://www.npmjs.com/package/webpack-cli)
+    * [webpack-dev-server](https://webpack.js.org/configuration/dev-server/)
+    * [webpack-pwa-manifest](https://www.npmjs.com/package/webpack-pwa-manifest)
+    * [workbox-webpack-plugin](https://www.npmjs.com/package/workbox-webpack-plugin)
+    * [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
+
+3. [Concurrently]()
+
+4. [if-env]()
+
+5. [Webpack]()
+    webpack-cli
+    webpack-dev-server
+    webpack-pwa-manifest
+    workbox-webpack-plugin
+    html-webpack-plugin
+
+6. [style-loader]
+7. [http-server]
+8. idb
+9. css-loader
+10. babel/core
+    babel/plugin-proposal-object-rest-spread
+    babel/plugin-transform-runtime
+    babel/preset-env
+    babel/runtime
+    babel-loader
+11. css-loader
+12. code-mirror-themes
+
+13. [Nodemon](https://www.npmjs.com/package/nodemon) - a Node.js tool that helps develop applications by automatically restarting the node application when file changes in the directory are detected.
+
+14. [Heroku](https://heroku.com) - used to deploy, manage, and scale the application.
