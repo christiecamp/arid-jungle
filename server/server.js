@@ -1,7 +1,7 @@
 const express = require('express');
 
 const monkey = express();
-const PORT = process.env.PORT || 3007;
+const PORT = process.env.PORT || 3003;
 
 monkey.use(express.json());
 monkey.use(express.urlencoded({ extended: true }));

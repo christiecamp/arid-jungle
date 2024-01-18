@@ -87,7 +87,7 @@ npm i
 
 <!-- ### ![demo](./prowling-predator/branding/13.png) -->
 
-<!-- 
+
 #
 
 ### ![sources](./prowling-predator/branding/4.png)
@@ -131,8 +131,7 @@ Here's a list of technologies used:
 
 13. [Nodemon](https://www.npmjs.com/package/nodemon) - a Node.js tool that helps develop applications by automatically restarting the node application when file changes in the directory are detected.
 
-14. [Heroku](https://heroku.com) - used to deploy, manage, and scale the application. -->
-
+14. [Heroku](https://heroku.com) - used to deploy, manage, and scale the application.
 
 ### ![license](./prowling-predator/branding/5.png)
 
