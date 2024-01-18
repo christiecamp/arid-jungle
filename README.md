@@ -34,17 +34,17 @@
 >The [.npmrc](https://docs.npmjs.com/cli/v10/configuring-npm/npmrc) file will set config values specific to this project, and ensures the app will deploy properly to [Heroku](https://www.heroku.com).
 
 
-<!-- ### ![user-story](./prowling-predator/branding/9.png) -->
+### ![user-story](./prowling-predator/branding/9.png)
 <!-- <p align="center">
   <img src="./prowling-predator/branding/user-story.png"/>
 </p> -->
 
-<!-- ### ![acceptance-criteria](./prowling-predator/branding/10.png) -->
+### ![acceptance-criteria](./prowling-predator/branding/10.png)
 <!-- <p align="center">
   <img src="./prowling-predator/branding/ac.png"/>
 </p> -->
 
-<!-- ### ![predator-list](./prowling-predator/branding/11.png) -->
+### ![predator-list](./prowling-predator/branding/11.png)
 <!-- <p align="center">
   <img src="./prowling-predator/branding/killer-list.png"/>
 </p> -->
@@ -86,26 +86,24 @@ npm run start:dev
     * service worker
       ##### view [demo videos](#demo) for further help
 
-<!-- ### ![screenshot](./prowling-predator/branding/12.png)
+### ![screenshot](./prowling-predator/branding/12.png)
              
-##### *screenshot demonstrates `AVID JUNGLE's` back end, along with the downloadable `PWA`*
+##### *screenshot demonstrates `AVID JUNGLE's` back end, local browser, & downloadable `PWA`*
 
-
-
-##### manifest
 <p align="center">
 <img src="./prowling-predator/demo/ss.png"/>
 </p> 
 
+
+### ![demo](./prowling-predator/branding/13.png)
+
+###### coming soon!
+
+<!-- ##### manifest
+
 ##### service worker
 
-
-##### idb storage
-
-
-### ![demo](./prowling-predator/branding/13.png) -->
-
-
+##### idb storage -->
 
 #
 
