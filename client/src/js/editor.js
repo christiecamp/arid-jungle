@@ -9,7 +9,7 @@ export default class {
         if (typeof CodeMirror === 'undefined') {
             throw new Error(`CodeMirror isn't loaded`);
         }
-        this.editor = CodeMirror(document.querySelector('#main'),{
+        this.editor = CodeMirror(document.querySelector('#main'), {
             value: '',
             mode: 'javascript',
             theme: 'monokai',
