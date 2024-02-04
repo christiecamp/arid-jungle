@@ -97,7 +97,21 @@ npm run start:dev
 
 ### ![demo](./prowling-predator/branding/13.png)
 
-###### coming soon!
+###### `manifest.json`
+<p align="center">
+<img src="./prowling-predator/demo/manifest.png"/>
+</p> 
+
+###### SERVICE WORKER
+<p align="center">
+<img src="./prowling-predator/demo/sw.png"/>
+</p> 
+
+###### STORAGE
+<p align="center">
+<img src="./prowling-predator/demo/storage.png"/>
+</p> 
+
 
 <!-- ##### manifest
 
