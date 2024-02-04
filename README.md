@@ -57,7 +57,7 @@ The application is invoked using the following commands:
 
 ##### *Clone the repository in your local development enviornment*
 
-```
+```javascript
 git clone https://github.com/christiecamp/avid-jungle.git
 ```
 
